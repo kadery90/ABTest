@@ -6,3 +6,4 @@
 
 > Kontrol ve test grupları bulunmaktadır. 
 
+***Impression:*** Reklam görüntüleme sayısı
