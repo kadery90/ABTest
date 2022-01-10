@@ -7,8 +7,11 @@
 > Kontrol ve test grupları bulunmaktadır. 
 
 ***Impression:*** Reklam görüntüleme sayısı
+
 ***Click:*** Tıklama
+
 ***Purchase:*** Satın alım
+
 ***Earning:*** Kazanç
 
 
