@@ -92,7 +92,7 @@ print('Test Stat = %.4f, p-value = %.4f' % (test_stat, pvalue))
 ##iki varsayım da sağlandı. Bu nedenle parametrik - ttest kullandım.
 
 
-##Sunu hazırlanmıştır. Purchasede hipotezi kabul ettik. Earning kriterinde reddettik.
+##Purchasede hipotezi kabul ettik. Earning kriterinde reddettik.
 
 test_stat, pvalue = ttest_ind(df_control["Earning"], df_test["Earning"],
                               equal_var=True)
